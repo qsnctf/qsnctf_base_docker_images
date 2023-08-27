@@ -4,7 +4,16 @@
 
 
 ## 镜像列表
-
+- Web
+  - Nginx-PHP5.6
+    - https://github.com/qsnctf/base_nginx_php_56
+  - Nginx-PHP7.2
+  - Nginx-PHP7.4
+  - Nginx-PHP8.0
+  - Nginx-PHP8.2
+- Crypto
+- Pwn
+- Base
 
 ## 说明
 ### 结构说明
