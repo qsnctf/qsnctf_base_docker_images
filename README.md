@@ -7,7 +7,6 @@
 - Web
   - Nginx
     - https://github.com/qsnctf/base_nginx
-  - Nginx-PHP5.4
   - Nginx-PHP5.6
     - https://github.com/qsnctf/base_nginx_php_56
   - Nginx-PHP7.2
