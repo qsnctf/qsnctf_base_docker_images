@@ -23,6 +23,8 @@
     - https://github.com/qsnctf/base_nginx_mysql_php_74
   - Nginx-PHP8.0-MySQL
     - https://github.com/qsnctf/base_nginx_mysql_php_80
+  - Apache(httpd)
+    - https://github.com/qsnctf/base_httpd
 - Crypto
 - Pwn
 - Base
