@@ -15,6 +15,10 @@
     - https://github.com/qsnctf/base_nginx_php_74
   - Nginx-PHP8.0
     - https://github.com/qsnctf/base_nginx_php_80
+  - Nginx-PHP5.6-MySQL
+  - Nginx-PHP7.2-MySQL
+  - Nginx-PHP7.4-MySQL
+  - Nginx-PHP8.0-MySQL
 - Crypto
 - Pwn
 - Base
