@@ -10,6 +10,7 @@
   - Nginx-PHP5.6
     - https://github.com/qsnctf/base_nginx_php_56
   - Nginx-PHP7.2
+    - https://github.com/qsnctf/base_nginx_php_72
   - Nginx-PHP7.4
   - Nginx-PHP8.0
   - Nginx-PHP8.2
