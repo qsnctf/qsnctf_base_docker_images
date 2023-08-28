@@ -15,7 +15,6 @@
     - https://github.com/qsnctf/base_nginx_php_74
   - Nginx-PHP8.0
     - https://github.com/qsnctf/base_nginx_php_80
-  - Nginx-PHP8.1
 - Crypto
 - Pwn
 - Base
