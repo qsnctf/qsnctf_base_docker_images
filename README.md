@@ -30,7 +30,9 @@
   - Apache(httpd)-PHP7.2
     - https://github.com/qsnctf/base_httpd_php_72
   - Apache(httpd)-PHP7.4
+    - https://github.com/qsnctf/base_httpd_php_74
   - Apache(httpd)-PHP8.0
+    - https://github.com/qsnctf/base_httpd_php_80
 - Crypto
 - Pwn
 - Base
