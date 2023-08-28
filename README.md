@@ -12,8 +12,9 @@
   - Nginx-PHP7.2
     - https://github.com/qsnctf/base_nginx_php_72
   - Nginx-PHP7.4
+    - https://github.com/qsnctf/base_nginx_php_74
   - Nginx-PHP8.0
-  - Nginx-PHP8.2
+  - Nginx-PHP8.1
 - Crypto
 - Pwn
 - Base
