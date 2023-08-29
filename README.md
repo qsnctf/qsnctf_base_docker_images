@@ -58,6 +58,7 @@
       - Python2.7-MySQL
       - Python3.8-MySQL
       - Python3.10-MySQL
+        - https://github.com/qsnctf/base_web_mysql_python310
 - Pwn
 - Other
   - 以Python为基础包含NC的镜像
