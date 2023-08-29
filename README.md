@@ -5,9 +5,10 @@
 
 ## 镜像列表
 - Web
-  - 以Nginx为基础的Web镜像
-    - Nginx
-      - https://github.com/qsnctf/base_nginx
+    - 以Nginx为基础的Web镜像
+      - Nginx
+        - https://github.com/qsnctf/base_nginx
+    - 拥有PHP的Nginx镜像
       - Nginx-PHP5.6
         - https://github.com/qsnctf/base_nginx_php_56
       - Nginx-PHP7.2
@@ -16,6 +17,7 @@
         - https://github.com/qsnctf/base_nginx_php_74
       - Nginx-PHP8.0
         - https://github.com/qsnctf/base_nginx_php_80
+    - 拥有PHP和MySQL的Nginx镜像
       - Nginx-PHP5.6-MySQL
         - https://github.com/qsnctf/base_nginx_mysql_php_56
       - Nginx-PHP7.2-MySQL
@@ -24,9 +26,10 @@
         - https://github.com/qsnctf/base_nginx_mysql_php_74
       - Nginx-PHP8.0-MySQL
         - https://github.com/qsnctf/base_nginx_mysql_php_80
-    - 以Nginx为基础的Web镜像
+    - 以Apache为基础的Web镜像
       - Apache(httpd)
         - https://github.com/qsnctf/base_httpd
+    - 拥有PHP的Apache镜像
       - Apache(httpd)-PHP5.6
         - https://github.com/qsnctf/base_httpd_php_56
       - Apache(httpd)-PHP7.2
@@ -35,6 +38,7 @@
         - https://github.com/qsnctf/base_httpd_php_74
       - Apache(httpd)-PHP8.0
         - https://github.com/qsnctf/base_httpd_php_80
+    - 拥有PHP和MySQL的Apache镜像
       - Apache(httpd)-PHP5.6-MySQL
         - https://github.com/qsnctf/base_httpd_mysql_php_56
       - Apache(httpd)-PHP7.2-MySQL
