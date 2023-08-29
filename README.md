@@ -48,9 +48,11 @@
       - Apache(httpd)-PHP8.0-MySQL
         - https://github.com/qsnctf/base_httpd_mysql_php_80
     - 以Python为基础的Web镜像
-      - Python380
-      - Python310
-      - Python311
+      - Python3.8
+      - Python3.10
+    - 以Python为基础包含MySQL的Web镜像
+      - Python3.8-MySQL
+      - Python3.10-MySQL
 - Pwn
 - Linux
 - Other
