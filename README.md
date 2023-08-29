@@ -68,7 +68,9 @@
     - Ubuntu18.04
       - https://github.com/qsnctf/base_pwn_xinetd_ubuntu_1804
     - Ubuntu20.04
+      - https://github.com/qsnctf/base_pwn_xinetd_ubuntu_2004
     - Ubuntu22.04
+      - https://github.com/qsnctf/base_pwn_xinetd_ubuntu_2204
 
 - Other
   - 以Python为基础包含NC的镜像
