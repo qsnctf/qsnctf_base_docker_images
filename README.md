@@ -35,6 +35,8 @@
     - https://github.com/qsnctf/base_httpd_php_80
   - Apache(httpd)-PHP5.6-MySQL
     - https://github.com/qsnctf/base_httpd_mysql_php_56
+  - Apache(httpd)-PHP7.2-MySQL
+    - https://github.com/qsnctf/base_httpd_mysql_php_72
 - Crypto
 - Pwn
 - Base
