@@ -65,6 +65,7 @@
   - 以Ubuntu为基础包含Xinetd的Pwn镜像
     - Ubuntu16.04
     - Ubuntu18.04
+      - https://github.com/qsnctf/base_pwn_xinetd_ubuntu_1804
     - Ubuntu20.04
     - Ubuntu22.04
 
