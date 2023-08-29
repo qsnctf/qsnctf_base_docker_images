@@ -54,8 +54,9 @@
       - Python3.8-MySQL
       - Python3.10-MySQL
 - Pwn
-- Linux
 - Other
+  - 以Python为基础包含NC的镜像
+
 
 ## 说明
 ### 结构说明
