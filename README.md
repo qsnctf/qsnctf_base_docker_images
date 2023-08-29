@@ -5,45 +5,51 @@
 
 ## 镜像列表
 - Web
-  - Nginx
-    - https://github.com/qsnctf/base_nginx
-  - Nginx-PHP5.6
-    - https://github.com/qsnctf/base_nginx_php_56
-  - Nginx-PHP7.2
-    - https://github.com/qsnctf/base_nginx_php_72
-  - Nginx-PHP7.4
-    - https://github.com/qsnctf/base_nginx_php_74
-  - Nginx-PHP8.0
-    - https://github.com/qsnctf/base_nginx_php_80
-  - Nginx-PHP5.6-MySQL
-    - https://github.com/qsnctf/base_nginx_mysql_php_56
-  - Nginx-PHP7.2-MySQL
-    - https://github.com/qsnctf/base_nginx_mysql_php_72
-  - Nginx-PHP7.4-MySQL
-    - https://github.com/qsnctf/base_nginx_mysql_php_74
-  - Nginx-PHP8.0-MySQL
-    - https://github.com/qsnctf/base_nginx_mysql_php_80
-  - Apache(httpd)
-    - https://github.com/qsnctf/base_httpd
-  - Apache(httpd)-PHP5.6
-    - https://github.com/qsnctf/base_httpd_php_56
-  - Apache(httpd)-PHP7.2
-    - https://github.com/qsnctf/base_httpd_php_72
-  - Apache(httpd)-PHP7.4
-    - https://github.com/qsnctf/base_httpd_php_74
-  - Apache(httpd)-PHP8.0
-    - https://github.com/qsnctf/base_httpd_php_80
-  - Apache(httpd)-PHP5.6-MySQL
-    - https://github.com/qsnctf/base_httpd_mysql_php_56
-  - Apache(httpd)-PHP7.2-MySQL
-    - https://github.com/qsnctf/base_httpd_mysql_php_72
-  - Apache(httpd)-PHP7.4-MySQL
-    - https://github.com/qsnctf/base_httpd_mysql_php_74
-  - Apache(httpd)-PHP8.0-MySQL
-    - https://github.com/qsnctf/base_httpd_mysql_php_80
-- Crypto
+  - 以Nginx为基础的Web镜像
+    - Nginx
+      - https://github.com/qsnctf/base_nginx
+      - Nginx-PHP5.6
+        - https://github.com/qsnctf/base_nginx_php_56
+      - Nginx-PHP7.2
+        - https://github.com/qsnctf/base_nginx_php_72
+      - Nginx-PHP7.4
+        - https://github.com/qsnctf/base_nginx_php_74
+      - Nginx-PHP8.0
+        - https://github.com/qsnctf/base_nginx_php_80
+      - Nginx-PHP5.6-MySQL
+        - https://github.com/qsnctf/base_nginx_mysql_php_56
+      - Nginx-PHP7.2-MySQL
+        - https://github.com/qsnctf/base_nginx_mysql_php_72
+      - Nginx-PHP7.4-MySQL
+        - https://github.com/qsnctf/base_nginx_mysql_php_74
+      - Nginx-PHP8.0-MySQL
+        - https://github.com/qsnctf/base_nginx_mysql_php_80
+    - 以Nginx为基础的Web镜像
+      - Apache(httpd)
+        - https://github.com/qsnctf/base_httpd
+      - Apache(httpd)-PHP5.6
+        - https://github.com/qsnctf/base_httpd_php_56
+      - Apache(httpd)-PHP7.2
+        - https://github.com/qsnctf/base_httpd_php_72
+      - Apache(httpd)-PHP7.4
+        - https://github.com/qsnctf/base_httpd_php_74
+      - Apache(httpd)-PHP8.0
+        - https://github.com/qsnctf/base_httpd_php_80
+      - Apache(httpd)-PHP5.6-MySQL
+        - https://github.com/qsnctf/base_httpd_mysql_php_56
+      - Apache(httpd)-PHP7.2-MySQL
+        - https://github.com/qsnctf/base_httpd_mysql_php_72
+      - Apache(httpd)-PHP7.4-MySQL
+        - https://github.com/qsnctf/base_httpd_mysql_php_74
+      - Apache(httpd)-PHP8.0-MySQL
+        - https://github.com/qsnctf/base_httpd_mysql_php_80
+    - 以Python为基础的Web镜像
+      - Python380
+      - Python310
+      - Python311
 - Pwn
-- Base
+- Linux
+- Other
 
 ## 说明
 ### 结构说明
