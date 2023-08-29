@@ -33,7 +33,7 @@
     - https://github.com/qsnctf/base_httpd_php_74
   - Apache(httpd)-PHP8.0
     - https://github.com/qsnctf/base_httpd_php_80
-  - Apache(httpd)-PHP8.0-MySQL
+  - Apache(httpd)-PHP5.6-MySQL
     - https://github.com/qsnctf/base_httpd_mysql_php_56
 - Crypto
 - Pwn
