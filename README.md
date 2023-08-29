@@ -57,6 +57,7 @@
     - 以Python为基础包含MySQL的Web镜像
       - Python2.7-MySQL
       - Python3.8-MySQL
+        - https://github.com/qsnctf/base_web_mysql_python38
       - Python3.10-MySQL
         - https://github.com/qsnctf/base_web_mysql_python310
 - Pwn
