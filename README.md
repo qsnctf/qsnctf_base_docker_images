@@ -76,6 +76,8 @@
       - https://github.com/qsnctf/base_pwn_xinetd_ubuntu_2204
 
 - Other
+  - 以Python为基础的动态题目脚本镜像
+    - https://github.com/qsnctf/base_other_python_http
   - 以Python为基础包含NC的镜像
 
 > 正在努力更新更多的环境...
